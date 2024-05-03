@@ -1,3 +1,0 @@
-<apex:page controller="dupcheck.dc3ControllerSetup" action="{!handleSetupRedirect}">
-    Please Wait...
-</apex:page>
